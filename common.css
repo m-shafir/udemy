@@ -4,3 +4,16 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
+.small {
+  font-size: 0.8rem;
+}
+
+.extra-small {
+  font-size: 0.6rem;
+}
+
+.toast {
+  bottom: 10px;
+  right: 10px;
+}
